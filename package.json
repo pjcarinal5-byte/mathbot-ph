@@ -1,13 +1,13 @@
+```json
 {
-  "name": "mathbot-ph-phase5",
-  "version": "1.1.0",
-  "description": "MathBot PH Phase 5 Node.js online-ready starter without native database modules",
+  "name": "mathbot-ph",
+  "version": "1.0.0",
   "main": "server.js",
-  "scripts": {"start":"node server.js"},
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
-    "bcryptjs": "^3.0.2",
-    "express": "^5.1.0",
-    "express-session": "^1.18.2",
-    "helmet": "^8.1.0"
+    "express": "^4.21.2"
   }
 }
+```
